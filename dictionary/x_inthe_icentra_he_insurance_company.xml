@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Insurance Company" max_length="40" name="x_inthe_icentra_he_insurance_company" type="collection">
+        <element label="Health Plan" max_length="32" name="health_plan" reference="x_inthe_icentra_he_insurance_plan" type="reference"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="health_plan"/>
+        </index>
+    </element>
+</database>

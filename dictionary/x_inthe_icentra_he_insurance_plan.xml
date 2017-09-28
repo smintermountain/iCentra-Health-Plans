@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Health Plan" max_length="40" name="x_inthe_icentra_he_insurance_plan" type="collection">
+        <element choice="1" label="Financial Class" max_length="40" name="financial_class" type="string">
+            <choice>
+                <element label="Auto/TPL" value="auto_tpl"/>
+                <element label="Client" value="client"/>
+                <element label="Commercial" value="commercial"/>
+                <element label="ExLTAC" value="exltac"/>
+                <element label="Medicaid" value="medicaid"/>
+                <element label="Medicaid HMO" value="medicaid_hmo"/>
+                <element label="Medicare" value="medicare"/>
+                <element label="Medicare Advantage" value="medicare_advantage"/>
+                <element label="Regence Blue Cross" value="blue_cross"/>
+                <element label="Select Health" value="select_health"/>
+                <element label="Self Pay" value="self_pay"/>
+                <element label="Tricare" value="tricare"/>
+                <element label="United HealthCare" value="united_healthcare"/>
+                <element label="Workers Comp/Liability" value="workers_comp"/>
+            </choice>
+        </element>
+        <element label="Health Plan Alias" max_length="32" name="health_plan_alias" reference="x_inthe_icentra_he_health_plan_alias" type="reference"/>
+        <element choice="1" label="Health Plan Type" max_length="40" name="health_plan_type" type="string">
+            <choice>
+                <element label="ChampVA" value="champva"/>
+                <element label="Commercial" value="commercial"/>
+                <element label="Medicaid" value="medicaid"/>
+                <element label="Medicare" value="medicare"/>
+                <element label="Medicare Private" value="medicare_private"/>
+                <element label="Self Pay" value="self_pay"/>
+                <element label="Worker's Comp" value="workers_comp"/>
+            </choice>
+        </element>
+        <element label="Insurance Company" max_length="40" name="insurance_company" reference="x_inthe_icentra_he_insurance_company" type="reference"/>
+        <element display="true" label="Name" max_length="255" name="name" type="string"/>
+        <element label="Phone Number" max_length="32" name="phone_number" reference="x_inthe_icentra_he_phone_number" type="reference"/>
+        <element label="Street Address" max_length="32" name="street_address" reference="x_inthe_icentra_he_address" type="reference"/>
+        <element label="Street Address 2" max_length="32" name="street_address_2" reference="x_inthe_icentra_he_address" type="reference"/>
+        <index name="index">
+            <element name="street_address"/>
+        </index>
+        <index name="index2">
+            <element name="phone_number"/>
+        </index>
+        <index name="index3">
+            <element name="street_address_2"/>
+        </index>
+        <index name="index4">
+            <element name="health_plan_alias"/>
+        </index>
+    </element>
+</database>

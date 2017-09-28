@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="alias_type" table="x_inthe_icentra_he_health_plan_alias" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HBS Carrier Code</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:39:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00b28d404fa9c700af76d0af0310c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:39:24</sys_updated_on>
+            <u_task/>
+            <value>carrier_code</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CB Mnemonic</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:38:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>206205804fa9c700af76d0af0310c745</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:38:04</sys_updated_on>
+            <u_task/>
+            <value>cb_mnemonic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Health Plan Encounter Level</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:40:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9e245804fa9c700af76d0af0310c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:40:20</sys_updated_on>
+            <u_task/>
+            <value>encounter_level</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Health Plan</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:39:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76c205804fa9c700af76d0af0310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:39:51</sys_updated_on>
+            <u_task/>
+            <value>health_plan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Default 835 HP Alias</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:38:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>708281804fa9c700af76d0af0310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:38:38</sys_updated_on>
+            <u_task/>
+            <value>hp_alias</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>National HP Identifier</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:41:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b52349804fa9c700af76d0af0310c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:41:25</sys_updated_on>
+            <u_task/>
+            <value>hp_identifier</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Keyword</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c4389804fa9c700af76d0af0310c7b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:41:51</sys_updated_on>
+            <u_task/>
+            <value>keyword</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MG Payer ID</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:40:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a0305804fa9c700af76d0af0310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:40:54</sys_updated_on>
+            <u_task/>
+            <value>payer_id</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alias_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>724 HP Viewer Alias Pool</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sequence/>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:37:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3212c1804fa9c700af76d0af0310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:37:26</sys_updated_on>
+            <u_task/>
+            <value>viewer_alias_pool</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>alias_type</element>
+            <name>x_inthe_icentra_he_health_plan_alias</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:37:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9f3205404fa9c700af76d0af0310c7f9</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>alias_type</sys_name>
+            <sys_package display_value="iCentra Health Plans" source="x_inthe_icentra_he">12df9a1c4f308f00f5f3d49f0310c790</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="iCentra Health Plans">12df9a1c4f308f00f5f3d49f0310c790</sys_scope>
+            <sys_update_name>sys_choice_x_inthe_icentra_he_health_plan_alias_alias_type</sys_update_name>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:41:51</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

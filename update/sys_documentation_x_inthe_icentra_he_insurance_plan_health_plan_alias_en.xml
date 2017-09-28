@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="health_plan_alias" label="Health Plan Alias" language="en" table="x_inthe_icentra_he_insurance_plan">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>health_plan_alias</element>
+            <help/>
+            <hint/>
+            <label>Health Plan Alias</label>
+            <language>en</language>
+            <name>x_inthe_icentra_he_insurance_plan</name>
+            <plural>Health Plan Alias</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-09-26 20:54:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3a260dc44fa9c700af76d0af0310c7ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Health Plan Alias</sys_name>
+            <sys_package display_value="iCentra Health Plans" source="x_inthe_icentra_he">12df9a1c4f308f00f5f3d49f0310c790</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="iCentra Health Plans">12df9a1c4f308f00f5f3d49f0310c790</sys_scope>
+            <sys_update_name>sys_documentation_x_inthe_icentra_he_insurance_plan_health_plan_alias_en</sys_update_name>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-09-26 20:54:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
