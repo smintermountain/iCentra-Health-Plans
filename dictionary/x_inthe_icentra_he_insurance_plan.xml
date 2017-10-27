@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Health Plan" max_length="40" name="x_inthe_icentra_he_insurance_plan" type="collection">
+    <element label="Health Plan" max_length="40" name="x_inthe_icentra_he_insurance_plan" sizeclass="6503" type="collection">
         <element choice="1" label="Financial Class" max_length="40" name="financial_class" type="string">
             <choice>
                 <element label="Auto/TPL" value="auto_tpl"/>

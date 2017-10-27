@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Health Plan Alias" max_length="40" name="x_inthe_icentra_he_health_plan_alias" type="collection">
+    <element label="Health Plan Alias" max_length="40" name="x_inthe_icentra_he_health_plan_alias" sizeclass="5302" type="collection">
         <element choice="1" label="Health Plan Alias Type" max_length="40" name="alias_type" type="string">
             <choice>
                 <element label="724 HP Viewer Alias Pool" value="viewer_alias_pool"/>
@@ -17,10 +17,14 @@
         <element label="HBS Carrier Code" max_length="40" name="carrier_code" type="string"/>
         <element label="CB Mnemonic" max_length="40" name="cb_mnemonic" type="string"/>
         <element label="Default 835 Alias" max_length="40" name="default_alias" type="string"/>
+        <element label="Health Plan" max_length="32" name="health_plan" reference="x_inthe_icentra_he_insurance_plan" type="reference"/>
         <element label="National HP Identifier" max_length="40" name="hp_identifier" type="string"/>
         <element label="Keywords" max_length="40" name="keywords" type="string"/>
-        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element display="true" label="Name" max_length="255" name="name" type="string"/>
         <element label="MG Payer ID" max_length="40" name="payer_id" type="string"/>
         <element label="Health Plan ID" max_length="40" name="plan_id" type="string"/>
+        <index name="index">
+            <element name="health_plan"/>
+        </index>
     </element>
 </database>

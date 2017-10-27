@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_inthe_icentra_he_insurance_plan" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Health Plan - Default view" name="x_inthe_icentra_he_insurance_plan" related_list="NULL" sys_domain="global" view="Default view">2f8beb1f4f398340af76d0af0310c730</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_inthe_icentra_he_address.health_plan</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-10-19 21:33:09</sys_created_on>
+            <sys_id>238beb1f4f398340af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-10-19 21:33:09</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Health Plan - Default view" name="x_inthe_icentra_he_insurance_plan" related_list="NULL" sys_domain="global" view="Default view">2f8beb1f4f398340af76d0af0310c730</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_inthe_icentra_he_phone_number.health_plan</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-10-19 21:33:09</sys_created_on>
+            <sys_id>e38beb1f4f398340af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-10-19 21:33:09</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Health Plan - Default view" name="x_inthe_icentra_he_insurance_plan" related_list="NULL" sys_domain="global" view="Default view">2f8beb1f4f398340af76d0af0310c730</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_inthe_icentra_he_insurance_company.health_plan</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-10-19 21:33:09</sys_created_on>
+            <sys_id>a78beb1f4f398340af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-10-19 21:33:09</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Health Plan - Default view" name="x_inthe_icentra_he_insurance_plan" related_list="NULL" sys_domain="global" view="Default view">2f8beb1f4f398340af76d0af0310c730</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>x_inthe_icentra_he_health_plan_alias.health_plan</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-10-19 21:33:09</sys_created_on>
+            <sys_id>6b8beb1f4f398340af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-10-19 21:33:09</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Health Plan - Default view</calculated_name>
+            <filter/>
+            <name>x_inthe_icentra_he_insurance_plan</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-10-19 21:33:09</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f8beb1f4f398340af76d0af0310c730</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Health Plan - Default view</sys_name>
+            <sys_package display_value="iCentra Health Plans" source="x_inthe_icentra_he">12df9a1c4f308f00f5f3d49f0310c790</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="iCentra Health Plans">12df9a1c4f308f00f5f3d49f0310c790</sys_scope>
+            <sys_update_name>sys_ui_related_x_inthe_icentra_he_insurance_plan_null</sys_update_name>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-10-19 21:33:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
