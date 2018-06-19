@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>tramos12</sys_created_by>
         <sys_created_on>2017-08-21 15:17:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6edf12504f708f00f5f3d49f0310c73c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inthe_icentra_he.user</sys_name>

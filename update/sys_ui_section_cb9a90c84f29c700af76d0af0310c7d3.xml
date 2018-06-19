@@ -5,13 +5,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 17:44:18</sys_created_on>
-            <sys_id>479a100c4f29c700af76d0af0310c73f</sys_id>
+            <sys_created_on>2017-12-01 21:48:11</sys_created_on>
+            <sys_id>5f5b499d4f7ac300af76d0af0310c720</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_company" sys_domain="global" view="Default view">cb9a90c84f29c700af76d0af0310c7d3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 17:44:18</sys_updated_on>
+            <sys_updated_on>2017-12-01 21:48:11</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 17:44:18</sys_created_on>
-            <sys_id>c79a100c4f29c700af76d0af0310c73f</sys_id>
+            <sys_created_on>2017-12-01 21:48:11</sys_created_on>
+            <sys_id>d35b499d4f7ac300af76d0af0310c721</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_company" sys_domain="global" view="Default view">cb9a90c84f29c700af76d0af0310c7d3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 17:44:18</sys_updated_on>
+            <sys_updated_on>2017-12-01 21:48:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,27 +33,27 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 17:44:18</sys_created_on>
-            <sys_id>4b9a100c4f29c700af76d0af0310c73f</sys_id>
+            <sys_created_on>2017-12-01 21:48:11</sys_created_on>
+            <sys_id>575b499d4f7ac300af76d0af0310c721</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_company" sys_domain="global" view="Default view">cb9a90c84f29c700af76d0af0310c7d3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 17:44:18</sys_updated_on>
+            <sys_updated_on>2017-12-01 21:48:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>health_plan</element>
+            <element>ncid</element>
             <position>3</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 17:44:18</sys_created_on>
-            <sys_id>cb9a100c4f29c700af76d0af0310c73f</sys_id>
+            <sys_created_on>2017-12-01 21:48:11</sys_created_on>
+            <sys_id>d75b499d4f7ac300af76d0af0310c721</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_company" sys_domain="global" view="Default view">cb9a90c84f29c700af76d0af0310c7d3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 17:44:18</sys_updated_on>
+            <sys_updated_on>2017-12-01 21:48:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.end_split</element>
             <position>4</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 17:44:18</sys_created_on>
-            <sys_id>4f9a100c4f29c700af76d0af0310c73f</sys_id>
+            <sys_created_on>2017-12-01 21:48:11</sys_created_on>
+            <sys_id>5b5b499d4f7ac300af76d0af0310c721</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_company" sys_domain="global" view="Default view">cb9a90c84f29c700af76d0af0310c7d3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 17:44:18</sys_updated_on>
+            <sys_updated_on>2017-12-01 21:48:11</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -79,7 +79,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tramos12</sys_created_by>
             <sys_created_on>2017-09-26 17:44:18</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>cb9a90c84f29c700af76d0af0310c7d3</sys_id>

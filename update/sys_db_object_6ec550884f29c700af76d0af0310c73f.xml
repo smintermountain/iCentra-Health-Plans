@@ -18,10 +18,12 @@
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>tramos12</sys_created_by>
         <sys_created_on>2017-09-26 17:34:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6ec550884f29c700af76d0af0310c73f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Insurance Company</sys_name>

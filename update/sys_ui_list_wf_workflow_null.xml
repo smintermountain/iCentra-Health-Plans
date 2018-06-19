@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="wf_workflow" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>81e8760c4f3c9f80af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>access</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>09e8760c4f3c9f80af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>89e8760c4f3c9f80af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>preview</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>0de8760c4f3c9f80af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>8de8760c4f3c9f80af76d0af0310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>01e8760c4f3c9f80af76d0af0310c732</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>template</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>81e8760c4f3c9f80af76d0af0310c732</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_active</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>05e8760c4f3c9f80af76d0af0310c732</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vars</element>
+            <list_id display_value="wf_workflow" element="NULL" name="wf_workflow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">09e8760c4f3c9f80af76d0af0310c730</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2018-03-07 18:39:54</sys_created_on>
+            <sys_id>85e8760c4f3c9f80af76d0af0310c732</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2018-03-07 18:39:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>wf_workflow</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-11-16 20:02:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2953a3904f62c700af76d0af0310c76c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>wf_workflow</sys_name>
+            <sys_package display_value="iCentra Health Plans" source="x_inthe_icentra_he">12df9a1c4f308f00f5f3d49f0310c790</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="iCentra Health Plans">12df9a1c4f308f00f5f3d49f0310c790</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-11-16 20:02:33</sys_updated_on>
+            <sys_user display_value="Teresa Ramos">739474c34f784600af76d0af0310c72b</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

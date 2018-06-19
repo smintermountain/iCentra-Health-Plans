@@ -5,13 +5,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>281741484fa9c700af76d0af0310c795</sys_id>
+            <sys_created_on>2017-12-01 18:50:31</sys_created_on>
+            <sys_id>20b2a4154ff6c300af76d0af0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
+            <sys_updated_on>2017-12-01 18:50:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,139 +19,69 @@
             <element>financial_class</element>
             <position>1</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>a81741484fa9c700af76d0af0310c795</sys_id>
+            <sys_created_on>2017-12-01 18:50:31</sys_created_on>
+            <sys_id>a0b2a4154ff6c300af76d0af0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>health_plan_alias</element>
-            <position>2</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>2c1741484fa9c700af76d0af0310c795</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>street_address</element>
-            <position>3</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>ac1741484fa9c700af76d0af0310c795</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>street_address.city</element>
-            <position>4</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>201741484fa9c700af76d0af0310c796</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
+            <sys_updated_on>2017-12-01 18:50:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>2</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>a01741484fa9c700af76d0af0310c796</sys_id>
+            <sys_created_on>2017-12-01 18:50:31</sys_created_on>
+            <sys_id>24b2a4154ff6c300af76d0af0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
+            <sys_updated_on>2017-12-01 18:50:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>health_plan_type</element>
-            <position>6</position>
+            <element>primary_key</element>
+            <position>3</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>241741484fa9c700af76d0af0310c796</sys_id>
+            <sys_created_on>2017-12-01 18:50:31</sys_created_on>
+            <sys_id>a4b2a4154ff6c300af76d0af0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
+            <sys_updated_on>2017-12-01 18:50:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>insurance_company</element>
-            <position>7</position>
+            <position>4</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>a41741484fa9c700af76d0af0310c796</sys_id>
+            <sys_created_on>2017-12-01 18:50:31</sys_created_on>
+            <sys_id>28b2a4154ff6c300af76d0af0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
+            <sys_updated_on>2017-12-01 18:50:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>phone_number</element>
-            <position>8</position>
+            <element>health_plan_type</element>
+            <position>5</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>281741484fa9c700af76d0af0310c796</sys_id>
+            <sys_created_on>2017-12-01 18:50:31</sys_created_on>
+            <sys_id>a8b2a4154ff6c300af76d0af0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>street_address.state</element>
-            <position>9</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>a81741484fa9c700af76d0af0310c796</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>street_address.zip_code</element>
-            <position>10</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 20:58:33</sys_created_on>
-            <sys_id>2c1741484fa9c700af76d0af0310c796</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_insurance_plan" sys_domain="global" view="Default view">23496ad04f708f00f5f3d49f0310c716</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 20:58:33</sys_updated_on>
+            <sys_updated_on>2017-12-01 18:50:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -163,7 +93,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tramos12</sys_created_by>
             <sys_created_on>2017-08-21 15:59:08</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>23496ad04f708f00f5f3d49f0310c716</sys_id>

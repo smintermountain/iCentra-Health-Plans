@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>tramos12</sys_created_by>
         <sys_created_on>2017-08-21 15:17:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3fdf12504f708f00f5f3d49f0310c742</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inthe_icentra_he_insurance_plan.x_inthe_icentra_he.user</sys_name>

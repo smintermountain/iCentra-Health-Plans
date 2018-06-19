@@ -2,156 +2,128 @@
 <record_update>
     <sys_ui_section caption="" section_id="fb8149004fa9c700af76d0af0310c7b3" sys_domain="global" table="x_inthe_icentra_he_health_plan_alias" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>health_plan</element>
             <position>0</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>9b4b635f4f398340af76d0af0310c738</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>d3a0740e4faecb00f5f3d49f0310c700</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>alias_type</element>
-            <position>1</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>1f4b635f4f398340af76d0af0310c738</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cb_mnemonic</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>9f4b635f4f398340af76d0af0310c738</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>5ba0740e4faecb00f5f3d49f0310c700</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>payer_id</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>134b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>dba0740e4faecb00f5f3d49f0310c700</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>default_alias</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>934b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>5fa0740e4faecb00f5f3d49f0310c700</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>174b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>dfa0740e4faecb00f5f3d49f0310c700</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>health_plan</element>
-            <position>6</position>
-            <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>974b635f4f398340af76d0af0310c739</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
-            <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>carrier_code</element>
-            <position>7</position>
+            <position>5</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>1b4b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>53a0740e4faecb00f5f3d49f0310c701</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>plan_id</element>
-            <position>8</position>
+            <position>6</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>9b4b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>d3a0740e4faecb00f5f3d49f0310c701</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hp_identifier</element>
-            <position>9</position>
+            <position>7</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>1f4b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>57a0740e4faecb00f5f3d49f0310c701</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>keywords</element>
-            <position>10</position>
+            <position>8</position>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-10-19 21:32:02</sys_created_on>
-            <sys_id>9f4b635f4f398340af76d0af0310c739</sys_id>
+            <sys_created_on>2017-11-21 17:31:20</sys_created_on>
+            <sys_id>d7a0740e4faecb00f5f3d49f0310c701</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inthe_icentra_he_health_plan_alias" sys_domain="global" view="Default view">fb8149004fa9c700af76d0af0310c7b3</sys_ui_section>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-10-19 21:32:02</sys_updated_on>
+            <sys_updated_on>2017-11-21 17:31:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -163,7 +135,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tramos12</sys_created_by>
             <sys_created_on>2017-09-26 20:34:28</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fb8149004fa9c700af76d0af0310c7b3</sys_id>

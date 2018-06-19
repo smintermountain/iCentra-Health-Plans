@@ -4,32 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bb159cc4fa9c700af76d0af0310c7b3</list_id>
+            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f638b04a4feecb00f5f3d49f0310c736</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 21:45:09</sys_created_on>
-            <sys_id>dfb159cc4fa9c700af76d0af0310c7b3</sys_id>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_id>7238b04a4feecb00f5f3d49f0310c737</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 21:45:09</sys_updated_on>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>health_plan</element>
-            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bb159cc4fa9c700af76d0af0310c7b3</list_id>
+            <element>city</element>
+            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f638b04a4feecb00f5f3d49f0310c736</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 21:45:09</sys_created_on>
-            <sys_id>53b159cc4fa9c700af76d0af0310c7b4</sys_id>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_id>f638b04a4feecb00f5f3d49f0310c737</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 21:45:09</sys_updated_on>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f638b04a4feecb00f5f3d49f0310c736</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_id>7a38b04a4feecb00f5f3d49f0310c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>zip_code</element>
+            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f638b04a4feecb00f5f3d49f0310c736</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_id>fa38b04a4feecb00f5f3d49f0310c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>corresponding_address</element>
+            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f638b04a4feecb00f5f3d49f0310c736</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_id>7e38b04a4feecb00f5f3d49f0310c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>health_plan</element>
+            <list_id display_value="x_inthe_icentra_he_address" element="NULL" name="x_inthe_icentra_he_address" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f638b04a4feecb00f5f3d49f0310c736</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>tramos12</sys_created_by>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_id>fe38b04a4feecb00f5f3d49f0310c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tramos12</sys_updated_by>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -43,11 +103,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tramos12</sys_created_by>
-            <sys_created_on>2017-09-26 21:45:09</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_created_on>2017-11-21 18:04:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9bb159cc4fa9c700af76d0af0310c7b3</sys_id>
+            <sys_id>f638b04a4feecb00f5f3d49f0310c736</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_inthe_icentra_he_address</sys_name>
             <sys_package display_value="iCentra Health Plans" source="x_inthe_icentra_he">12df9a1c4f308f00f5f3d49f0310c790</sys_package>
@@ -56,7 +116,7 @@
             <sys_scope display_value="iCentra Health Plans">12df9a1c4f308f00f5f3d49f0310c790</sys_scope>
             <sys_update_name>sys_ui_list_x_inthe_icentra_he_address_null</sys_update_name>
             <sys_updated_by>tramos12</sys_updated_by>
-            <sys_updated_on>2017-09-26 21:45:09</sys_updated_on>
+            <sys_updated_on>2017-11-21 18:04:21</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Health Plan Changes" max_length="40" name="x_inthe_icentra_he_health_plan_changes" type="collection">
+        <element label="Health Plan" max_length="32" name="health_plan" reference="x_inthe_icentra_he_insurance_plan" type="reference"/>
+        <element label="Reason for Change" max_length="4000" name="reason_for_change" type="string"/>
+        <element label="Requested Item" max_length="40" name="requested_item" type="string"/>
+        <index name="index">
+            <element name="health_plan"/>
+        </index>
+    </element>
+</database>

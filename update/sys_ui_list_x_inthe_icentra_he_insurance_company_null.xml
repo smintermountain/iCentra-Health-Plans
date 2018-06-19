@@ -44,7 +44,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tramos12</sys_created_by>
             <sys_created_on>2017-09-26 21:45:22</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9ec199cc4fa9c700af76d0af0310c7d5</sys_id>

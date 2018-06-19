@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>tramos12</sys_created_by>
         <sys_created_on>2017-08-21 16:38:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3262725c4f708f00f5f3d49f0310c71c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inthe_icentra_he_phone_number.x_inthe_icentra_he.user</sys_name>

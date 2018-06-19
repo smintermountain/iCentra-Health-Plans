@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="name" table="x_inthe_icentra_he_health_plan_alias">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation>(function calculatedFieldValue(current) {
@@ -22,7 +23,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>true</display>
+        <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -51,8 +52,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>tramos12</sys_created_by>
         <sys_created_on>2017-09-26 20:20:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>9cfcb4cc4f69c700af76d0af0310c78a</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>14b8dea44f6947405df4d0af0310c719</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Name</sys_name>
         <sys_package display_value="iCentra Health Plans" source="x_inthe_icentra_he">12df9a1c4f308f00f5f3d49f0310c790</sys_package>
@@ -61,7 +62,7 @@
         <sys_scope display_value="iCentra Health Plans">12df9a1c4f308f00f5f3d49f0310c790</sys_scope>
         <sys_update_name>sys_dictionary_x_inthe_icentra_he_health_plan_alias_name</sys_update_name>
         <sys_updated_by>tramos12</sys_updated_by>
-        <sys_updated_on>2017-10-02 20:51:43</sys_updated_on>
+        <sys_updated_on>2018-01-08 17:05:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

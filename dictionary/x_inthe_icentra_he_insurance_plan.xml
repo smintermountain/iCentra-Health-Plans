@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Health Plan" max_length="40" name="x_inthe_icentra_he_insurance_plan" sizeclass="6503" type="collection">
+    <element label="Health Plan" max_length="40" name="x_inthe_icentra_he_insurance_plan" type="collection">
         <element choice="1" label="Financial Class" max_length="40" name="financial_class" type="string">
             <choice>
                 <element label="Auto/TPL" value="auto_tpl"/>
@@ -34,18 +34,22 @@
         <element label="Insurance Company" max_length="40" name="insurance_company" reference="x_inthe_icentra_he_insurance_company" type="reference"/>
         <element display="true" label="Name" max_length="255" name="name" type="string"/>
         <element label="Phone Number" max_length="32" name="phone_number" reference="x_inthe_icentra_he_phone_number" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Cerner Primary Key" max_length="100" name="primary_key" type="string"/>
         <element label="Street Address" max_length="32" name="street_address" reference="x_inthe_icentra_he_address" type="reference"/>
         <element label="Street Address 2" max_length="32" name="street_address_2" reference="x_inthe_icentra_he_address" type="reference"/>
         <index name="index">
             <element name="street_address"/>
         </index>
         <index name="index2">
-            <element name="phone_number"/>
+            <element name="insurance_company"/>
         </index>
         <index name="index3">
-            <element name="street_address_2"/>
+            <element name="phone_number"/>
         </index>
         <index name="index4">
+            <element name="street_address_2"/>
+        </index>
+        <index name="index5">
             <element name="health_plan_alias"/>
         </index>
     </element>
